@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://img.shields.io/badge/-PSAT-black)
+![](https://simpleicons.org/?q=python)
