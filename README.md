@@ -1,6 +1,3 @@
-### Sungkyunkwan univeristy
-
-
 ![](https://img.shields.io/badge/-PSAT-black)
 
 <!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
