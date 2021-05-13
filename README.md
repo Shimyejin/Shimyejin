@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://img.shields.io/badge/-PSAT-black
+<img src="https://img.shields.io/badge/-PSAT-black">
+
+![](https://img.shields.io/badge/-PSAT-black)
