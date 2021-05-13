@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/badge/-PSAT-black
-<img src="https://img.shields.io/badge/-PSAT-black">
-
 ![](https://img.shields.io/badge/-PSAT-black)
