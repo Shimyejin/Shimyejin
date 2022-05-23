@@ -11,8 +11,8 @@
   - Statistics
     - Mathematics for Statistics / Matrix Algebra / Principles of Statistics
     - Mathematical Statistics / Regression Analysis / Statistical Programming (R)
-    - Statistical Data Mining / Experimental Design / Introduction to Biostatistics / Actuarial Statistics
-    - Linear Algebra
+    - Statistical Data Mining / Experimental Design / Introduction to Biostatistics
+    - Linear Algebra / Actuarial Statistics
   - Convergence Software
-    - Introduction to Computers
-    - DataScience with Python / Intelligent Cognitive Emotion Design / Computational Thinking and Applicants / Introduction to Data Structures and Algorithms
+    - Introduction to Computers / Introduction to Data Structures and Algorithms
+    - DataScience with Python / Intelligent Cognitive Emotion Design / Computational Thinking and Applicants
