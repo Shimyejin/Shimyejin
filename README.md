@@ -1,9 +1,10 @@
 ### YEJIN SHIM
 
-- :school:**Sungkyunkwan Univ.**
+- **Sungkyunkwan Univ.**
 
-- :chart_with_upwards_trend: **Activity:** Statistical Analysis group P-SAT (Dept. of Statistics in Sungkyunkwan) ![](https://img.shields.io/badge/-PSAT-black)
-  - :tiger: Categorical Data Analysis Team
+- :chart_with_upwards_trend: **Activity:** Statistical Analysis group P-SAT (Dept. of Statistics in Sungkyunkwan)
+  - Categorical Data Analysis Team
+  - Regression Analysis Team
 
 ### Course Work
 - Undergraduate
@@ -13,4 +14,4 @@
     - Statistical Data Mining / Experimental Design / Introduction to Biostatistics / Actuarial Statistics
   - Convergence Software
     - Introduction to Computers
-    
+    - 
