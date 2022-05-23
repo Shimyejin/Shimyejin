@@ -1,18 +1,35 @@
-### YEJIN SHIM
+## YEJIN SHIM
 
 - **Sungkyunkwan Univ.**
 
-- **Activity:** Statistical Analysis group P-SAT (Dept. of Statistics in Sungkyunkwan)
-  - Categorical Data Analysis Team
-  - Regression Analysis Team
+- **Activity :** Statistical Analysis group P-SAT (Dept. of Statistics in Sungkyunkwan)
+  - ```Categorical Data Analysis Team```
+  - ```Regression Analysis Team```
+<br />
 
-### Course Work
-- Undergraduate
+Course Work
+-------------
+#### Undergraduate
+```Statistics```
+- 2020
+  - Mathematics for Statistics
+  - Matrix Algebra
   - Statistics
-    - Mathematics for Statistics / Matrix Algebra / Principles of Statistics
-    - Mathematical Statistics / Regression Analysis / Statistical Programming (R)
-    - Statistical Data Mining / Experimental Design / Introduction to Biostatistics
-    - Linear Algebra / Actuarial Statistics
-  - Convergence Software
-    - Introduction to Computers / Introduction to Data Structures and Algorithms
-    - DataScience with Python / Intelligent Cognitive Emotion Design / Computational Thinking and Applicants
+  - Introduction to Mathematical Statistics
+  - Introduction to Regression Analysis
+  - Introduction to statistical programming (R)
+- 2021
+  - Statistical Data Mining
+  - Design of Experiments
+  - Introduction to Biostatistics
+  - Insurance Statistics
+<br />
+
+```Convergence Software```
+- 2021
+  - Introduction to Computer Engineering
+- 2022
+  - Introduction to Data Structures and Algorithms
+  - Data Science and Python
+  - Intelligent Cognitive and Emotional Design
+  - Computational Thinking, Programming and Application
