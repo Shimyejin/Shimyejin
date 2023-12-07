@@ -23,6 +23,9 @@ Course Work
   - Design of Experiments
   - Introduction to Biostatistics
   - Insurance Statistics
+- 2023
+  - Investments
+  - Large Data Management and Data Visualization
 <br />
 
 ```Convergence Software```
@@ -33,3 +36,12 @@ Course Work
   - Data Science and Python
   - Intelligent Cognitive and Emotional Design
   - Computational Thinking, Programming and Application
+- 2023
+  - Operating Systems
+  - Business Analytics and Applications
+  - Introduction to Database
+  - AI-based Neuroscience and Neurotechnology
+  - The Fourth Industrial Revolution and Start-up Business
+  - Social Intelligence
+  - Ethical and social impact of data
+  - Introduction to Programming
