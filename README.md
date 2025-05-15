@@ -63,5 +63,5 @@
 
 ### 🧠 Data & Engineering Experience
 
-* **Microsoft Data School 1st Cohort (Apr 2025 – Sep 2025)**
+* **Microsoft Data School 1st Cohort (Apr 2025 – Sep 2025)**  
   *Completed intensive training on Azure-based data analytics and engineering, including Databricks, Synapse, Power BI, SQL, and real-time streaming solutions.*
