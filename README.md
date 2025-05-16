@@ -10,8 +10,18 @@
 
 ### 🛠 Skills
 
-- **Languages & Tools:**  
-  `Python`, `R`, `MySQL`, `PostgreSQL`, `Spark`, `Databricks`, `QGIS`, `Tableau`, `Power BI`, `Git`
+**Languages & Tools**
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=R\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square\&logo=apachespark\&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square\&logo=databricks\&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square\&logo=qgis\&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square\&logo=tableau\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+
 
 ---
 
