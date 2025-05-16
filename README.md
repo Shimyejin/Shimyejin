@@ -3,8 +3,8 @@
 ### 🎓 Education
 
 * **Sungkyunkwan University**  
-  Bachelor of Arts in **Statistics** (Major)  
-  Double Major in **Convergence Software**
+  - **Statistics** (Major)  
+  - **Convergence Software** (Double Major)
 
 ---
 
