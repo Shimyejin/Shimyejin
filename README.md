@@ -34,7 +34,7 @@
   - Completed intensive training in Azure-based data analytics and engineering  
     *(Databricks, Synapse, Power BI, SQL, Stream Analytics)*
 
-* **P-SAT Statistical Analysis Society (2021 – 2023)**  
+* **P-SAT Statistical Analysis Society (2021)**  
   - Participated in department-wide research group  
   - Projects in the `Categorical Data Analysis Team` and `Regression Analysis Team`, with presentations and teamwork
 
