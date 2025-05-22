@@ -43,7 +43,7 @@
 
 * **Microsoft Data School 1st Cohort (Apr 2025 – Sep 2025)**  
   - Completed intensive training in Azure-based data analytics and engineering  
-    *(Databricks, Synapse, Power BI, SQL, Stream Analytics)*
+    *(Databricks, Power BI, PostgreSQL, Stream Analytics)*
 
 * **P-SAT Statistical Analysis Society (2021)**  
   - Participated in department-wide research group  
